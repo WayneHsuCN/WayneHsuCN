@@ -31,7 +31,7 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, fluent, gnuplot
           plugin_languages_skipped: waynehsu00.github.io, WayneHsu00
 
           plugin_rss: yes
@@ -40,8 +40,10 @@ jobs:
 
           plugin_habits: yes
           plugin_habits_from: 500
+          plugin_habits_days: 30
           plugin_habits_facts: yes
-          plugin_habits_charts: no
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: graph
 
           # Token
           token: ${{ secrets.METRICS_TOKEN }}
