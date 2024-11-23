@@ -17,7 +17,7 @@ jobs:
           base: header, activity, community, repositories, metadata
       - uses: lowlighter/metrics@v3.20
         with:
-          filename: metrics.plugin.isocalendar.fullyear.png
+          filename: .cache/metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
