@@ -16,14 +16,14 @@ jobs:
           template: markdown
           filename: README.md
           markdown_cache: .cache
-          markdown: https://raw.githubusercontent.com/WayneHsu00/WayneHsu00/main/template.md
+          markdown: https://raw.githubusercontent.com/waynehsucn/waynehsucn/main/template.md
           config_output: markdown
 
           # Options
-          user: WayneHsu00
+          user: waynehsucn
           base: header, metadata, activity, community
           config_timezone: Asia/Shanghai
-          repositories_skipped: WayneHsu00.github.io, WayneHsu00
+          repositories_skipped: waynehsucn.github.io, waynehsucn
 
           # plugin
           plugin_activity: yes
@@ -32,10 +32,10 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_details: bytes-size, percentage
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, fluent, gnuplot
-          plugin_languages_skipped: waynehsu00.github.io, WayneHsu00
+          plugin_languages_skipped: waynehsucn.github.io, waynehsucn
 
           plugin_rss: yes
-          plugin_rss_source: https://waynehsu00.github.io/feed.xml
+          plugin_rss_source: https://waynehsucn.github.io/feed.xml
           plugin_rss_limit: 3
 
           plugin_habits: yes

@@ -64,10 +64,10 @@ Check out my recent posts on my personal homepage:
 Feel free to reach out at:
 
 - 📧 Email: [wenjie.xu.cn@outlook.com](mailto:wenjie.xu.cn@outlook.com)  
-- 🌐 Website: [waynehsu00.github.io](https://waynehsu00.github.io/)  
-- 📖 GitHub: [WayneHsu00](https://github.com/WayneHsu00)
+- 🌐 Website: [waynehsucn.github.io](https://waynehsucn.github.io/)  
+- 📖 GitHub: [waynehsucn](https://github.com/waynehsucn)
 
-<%- await embed(`activity`, {activity: true}) %>
+----
 
 > Generated with [lowlighter/metrics@{{ meta.version }}](https://github.com/lowlighter/metrics)
 > Last updated: {{ meta.generated }} ({{ config.timezone.name }}).
