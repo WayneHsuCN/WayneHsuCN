@@ -1,6 +1,5 @@
 name: Markdown
 on:
-  # Schedule daily updates
   schedule: [{ cron: "0 0 * * *" }]
   push: { branches: ["master", "main"] }
 jobs:

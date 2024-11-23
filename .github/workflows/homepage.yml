@@ -1,0 +1,24 @@
+name: homepage
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  push: { branches: ["master", "main"] }
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    environment:
+      name: production
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@v3.20
+        with:
+          filename: metrics.base.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+      - uses: lowlighter/metrics@v3.20
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
