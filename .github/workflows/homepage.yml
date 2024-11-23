@@ -12,12 +12,12 @@ jobs:
     steps:
       - uses: lowlighter/metrics@v3.20
         with:
-          filename: metrics.base.svg
+          filename: .cache/metrics.base.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
       - uses: lowlighter/metrics@v3.20
         with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
+          filename: metrics.plugin.isocalendar.fullyear.png
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
