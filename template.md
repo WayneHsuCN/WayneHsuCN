@@ -48,10 +48,12 @@
 ## 📊 Coding Habits and Activity
 
 - 🕒 **Active Hours**
-  <%- await embed(`habits`, {habits: true}) %>
+
+<%- await embed(`habits`, {habits: true}) %>
 
 - 🌐 **Recently Used Languages**
-  <%- await embed(`languages`, {languages: true}) %>
+
+<%- await embed(`languages`, {languages: true}) %>
 
 ## 📝 Blog Highlights
 
