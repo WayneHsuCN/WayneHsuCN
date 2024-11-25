@@ -10,7 +10,7 @@
 
 - 🎓 **PhD Candidate** in Management Science and Engineering at [CASISD](http://www.casisd.cn/).
 - 🔍 Focused on **Risk Management**, exploring innovative strategies for risk assessment and management.
-- 📅 I joined GitHub on 15 Feb 2020, and since then, I’ve actively contributed to 19 repositories with a total of 163 commits.
+- 📅 I joined GitHub on 15 Feb 2020, and since then, I’ve actively contributed to 19 repositories with a total of 125 commits.
 - 💡 Programming Enthusiast: I enjoy working with **Python** and **JavaScript/TypeScript**.
 
 ## 🛠️ Tech Stack
@@ -48,10 +48,12 @@
 ## 📊 Coding Habits and Activity
 
 - 🕒 **Active Hours**
-  <img src="https://github.com/WayneHsuCN/WayneHsuCN/blob/main/.cache/habits.svg">
+
+<img src="https://github.com/WayneHsuCN/WayneHsuCN/blob/main/.cache/habits.svg">
 
 - 🌐 **Recently Used Languages**
-  <img src="https://github.com/WayneHsuCN/WayneHsuCN/blob/main/.cache/languages.svg">
+
+<img src="https://github.com/WayneHsuCN/WayneHsuCN/blob/main/.cache/languages.svg">
 
 ## 📝 Blog Highlights
 
@@ -77,4 +79,4 @@ Feel free to reach out at:
 ----
 
 > Generated with [lowlighter/metrics@3.20.0](https://github.com/lowlighter/metrics)
-> Last updated: 24 Nov 2024, 09:05:17 (Asia/Shanghai).
+> Last updated: 25 Nov 2024, 08:06:22 (Asia/Shanghai).
