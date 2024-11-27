@@ -11,13 +11,14 @@
 - 🎓 **PhD Candidate** in Management Science and Engineering at [CASISD](http://www.casisd.cn/).
 - 🔍 Focused on **Risk Management**, exploring innovative strategies for risk assessment and management.
 - 📅 I joined GitHub on {{ f.date(REGISTRATION_DATE, {date:true}) }}, and since then, I’ve actively contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} repositories with a total of {{ COMMITS }} commits.
-- 💡 Programming Enthusiast: I enjoy working with **Python** and **JavaScript/TypeScript**.
+- 💡 Programming Enthusiast: I enjoy working with **Python** , **Julia** and **JavaScript/TypeScript**.
 
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Julia](https://img.shields.io/badge/Julia-3670A0?style=flat-square&logo=Julia)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -34,7 +35,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-333333?style=flat-square&logo=python&logoColor=white)
-![Stata](https://img.shields.io/badge/Stata-1E90FF?style=flat-square&logoColor=white)
 
 ### Platforms & Databases
 
