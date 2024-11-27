@@ -10,7 +10,7 @@
 
 - 🎓 **PhD Candidate** in Management Science and Engineering at [CASISD](http://www.casisd.cn/).
 - 🔍 Focused on **Risk Management**, exploring innovative strategies for risk assessment and management.
-- 📅 I joined GitHub on 15 Feb 2020, and since then, I’ve actively contributed to 19 repositories with a total of 163 commits.
+- 📅 I joined GitHub on 15 Feb 2020, and since then, I’ve actively contributed to 19 repositories with a total of 126 commits.
 - 💡 Programming Enthusiast: I enjoy working with **Python** and **JavaScript/TypeScript**.
 
 ## 🛠️ Tech Stack
@@ -48,22 +48,24 @@
 ## 📊 Coding Habits and Activity
 
 - 🕒 **Active Hours**
-  <img src="https://github.com/WayneHsuCN/WayneHsuCN/blob/main/.cache/habits.svg">
+
+<img src="https://github.com/WayneHsuCN/WayneHsuCN/blob/main/.cache/habits.svg">
 
 - 🌐 **Recently Used Languages**
-  <img src="https://github.com/WayneHsuCN/WayneHsuCN/blob/main/.cache/languages.svg">
+
+<img src="https://github.com/WayneHsuCN/WayneHsuCN/blob/main/.cache/languages.svg">
 
 ## 📝 Blog Highlights
 
 Check out my recent posts on my personal homepage:
 
 **[🗼 Rss feed from Wenjie Xu](https://waynehsucn.github.io//)**
+* [信息时代是平庸者的坟墓](https://waynehsucn.github.io//blog/2024/%E4%BF%A1%E6%81%AF%E6%97%B6%E4%BB%A3%E6%98%AF%E5%B9%B3%E5%BA%B8%E8%80%85%E7%9A%84%E5%9D%9F%E5%A2%93/)
+  * *Published on 21 Nov 2024*
 * [Conda-Pyenv-Poetry 多轨管理 Python 环境](https://waynehsucn.github.io//blog/2024/Python%E7%8E%AF%E5%A2%83%E7%AE%A1%E7%90%86/)
   * *Published on 9 Nov 2024*
 * [工作环境实用配置记录](https://waynehsucn.github.io//blog/2024/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83%E5%AE%9E%E7%94%A8%E9%85%8D%E7%BD%AE%E8%AE%B0%E5%BD%95/)
   * *Published on 25 Sept 2024*
-* [部署用于学术研究的 Linux 服务器](https://waynehsucn.github.io//blog/2024/%E9%83%A8%E7%BD%B2%E7%94%A8%E4%BA%8E%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6%E7%9A%84Linux%E6%9C%8D%E5%8A%A1%E5%99%A8/)
-  * *Published on 24 Aug 2024*
 
 
 ## 📬 Contact Me
@@ -77,4 +79,4 @@ Feel free to reach out at:
 ----
 
 > Generated with [lowlighter/metrics@3.20.0](https://github.com/lowlighter/metrics)
-> Last updated: 24 Nov 2024, 09:05:17 (Asia/Shanghai).
+> Last updated: 27 Nov 2024, 09:01:40 (Asia/Shanghai).
