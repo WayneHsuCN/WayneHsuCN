@@ -10,7 +10,7 @@
 
 - 🎓 **PhD Candidate** in Management Science and Engineering at [CASISD](http://www.casisd.cn/).
 - 🔍 Focused on **Risk Management**, exploring innovative strategies for risk assessment and management.
-- 📅 I joined GitHub on 15 Feb 2020, and since then, I’ve actively contributed to 19 repositories with a total of 128 commits.
+- 📅 I joined GitHub on 15 Feb 2020, and since then, I’ve actively contributed to 19 repositories with a total of 129 commits.
 - 💡 Programming Enthusiast: I enjoy working with **Python** , **Julia** and **JavaScript/TypeScript**.
 
 ## 🛠️ Tech Stack
@@ -60,12 +60,12 @@
 Check out my recent posts on my personal homepage:
 
 **[🗼 Rss feed from Wenjie Xu](https://waynehsucn.github.io//)**
+* [多设备项目代码同步](https://waynehsucn.github.io//blog/2024/%E5%9F%BA%E4%BA%8EVHDX%E7%9A%84%E5%A4%9A%E8%AE%BE%E5%A4%87%E4%BB%A3%E7%A0%81%E5%90%8C%E6%AD%A5/)
+  * *Published on 30 Nov 2024*
 * [信息时代是平庸者的坟墓](https://waynehsucn.github.io//blog/2024/%E4%BF%A1%E6%81%AF%E6%97%B6%E4%BB%A3%E6%98%AF%E5%B9%B3%E5%BA%B8%E8%80%85%E7%9A%84%E5%9D%9F%E5%A2%93/)
   * *Published on 21 Nov 2024*
 * [Conda-Pyenv-Poetry 多轨管理 Python 环境](https://waynehsucn.github.io//blog/2024/Python%E7%8E%AF%E5%A2%83%E7%AE%A1%E7%90%86/)
   * *Published on 9 Nov 2024*
-* [工作环境实用配置记录](https://waynehsucn.github.io//blog/2024/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83%E5%AE%9E%E7%94%A8%E9%85%8D%E7%BD%AE%E8%AE%B0%E5%BD%95/)
-  * *Published on 25 Sept 2024*
 
 
 ## 📬 Contact Me
@@ -79,4 +79,4 @@ Feel free to reach out at:
 ----
 
 > Generated with [lowlighter/metrics@3.20.0](https://github.com/lowlighter/metrics)
-> Last updated: 30 Nov 2024, 08:59:57 (Asia/Shanghai).
+> Last updated: 1 Dec 2024, 09:11:52 (Asia/Shanghai).
