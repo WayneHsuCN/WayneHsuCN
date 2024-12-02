@@ -10,12 +10,12 @@
 
 - 🎓 **PhD Candidate** in Management Science and Engineering at [CASISD](http://www.casisd.cn/).
 - 🔍 Focused on **Risk Management**, exploring innovative strategies for risk assessment and management.
-- 📅 I joined GitHub on 15 Feb 2020, and since then, I’ve actively contributed to 19 repositories with a total of 129 commits.
+- 📅 I joined GitHub on 15 Feb 2020, and since then, I’ve actively contributed to 19 repositories with a total of 132 commits.
 - 💡 Programming Enthusiast: I enjoy working with **Python** , **Julia** and **JavaScript/TypeScript**.
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Julia](https://img.shields.io/badge/Julia-3670A0?style=flat-square&logo=Julia)
@@ -26,7 +26,7 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-### Libraries & Tools
+### Tools
 
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Typst](https://img.shields.io/badge/Typst-181717?style=flat-square&logo=latex&logoColor=white)
@@ -36,7 +36,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-333333?style=flat-square&logo=python&logoColor=white)
 
-### Platforms & Databases
+### Platforms
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -79,4 +79,4 @@ Feel free to reach out at:
 ----
 
 > Generated with [lowlighter/metrics@3.20.0](https://github.com/lowlighter/metrics)
-> Last updated: 2 Dec 2024, 09:03:56 (Asia/Shanghai).
+> Last updated: 2 Dec 2024, 15:24:10 (Asia/Shanghai).
