@@ -15,7 +15,7 @@
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Julia](https://img.shields.io/badge/Julia-3670A0?style=flat-square&logo=Julia)
@@ -26,7 +26,7 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-### Libraries & Tools
+### Tools
 
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Typst](https://img.shields.io/badge/Typst-181717?style=flat-square&logo=latex&logoColor=white)
@@ -36,7 +36,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-333333?style=flat-square&logo=python&logoColor=white)
 
-### Platforms & Databases
+### Platforms
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
