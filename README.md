@@ -10,7 +10,7 @@
 
 - 🎓 **PhD Candidate** in Management Science and Engineering at [CASISD](http://www.casisd.cn/).
 - 🔍 Focused on **Risk Management**, exploring innovative strategies for risk assessment and management.
-- 📅 I joined GitHub on 15 Feb 2020, and since then, I’ve actively contributed to 18 repositories with a total of 142 commits.
+- 📅 I joined GitHub on 15 Feb 2020, and since then, I’ve actively contributed to 18 repositories with a total of 143 commits.
 - 💡 Programming Enthusiast: I enjoy working with **Python** , **Julia** and **JavaScript/TypeScript**.
 
 ## 🛠️ Tech Stack
@@ -60,12 +60,12 @@
 Check out my recent posts on my personal homepage:
 
 **[🗼 Rss feed from Wenjie Xu](https://waynehsucn.github.io//)**
+* [2025 年的第一天，说点什么吧](https://waynehsucn.github.io//blog/2025/%E9%9A%8F%E7%AC%9425%E5%B2%81%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9/)
+  * *Published on 2 Jan 2025*
 * [2024 年科研工作的心得体会](https://waynehsucn.github.io//blog/2024/2024%E5%B9%B4%E7%A7%91%E7%A0%94%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/)
   * *Published on 16 Dec 2024*
 * [中文的常态与变态](https://waynehsucn.github.io//blog/2024/%E4%B8%AD%E6%96%87%E7%9A%84%E5%B8%B8%E6%80%81%E4%B8%8E%E5%8F%98%E6%80%81/)
   * *Published on 2 Dec 2024*
-* [信息时代是平庸者的坟墓](https://waynehsucn.github.io//blog/2024/%E4%BF%A1%E6%81%AF%E6%97%B6%E4%BB%A3%E6%98%AF%E5%B9%B3%E5%BA%B8%E8%80%85%E7%9A%84%E5%9D%9F%E5%A2%93/)
-  * *Published on 21 Nov 2024*
 
 
 ## 📬 Contact Me
@@ -79,4 +79,4 @@ Feel free to reach out at:
 ----
 
 > Generated with [lowlighter/metrics@3.20.0](https://github.com/lowlighter/metrics)
-> Last updated: 3 Jan 2025, 08:58:04 (Asia/Shanghai).
+> Last updated: 4 Jan 2025, 08:56:45 (Asia/Shanghai).
