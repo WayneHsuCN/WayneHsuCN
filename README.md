@@ -62,10 +62,10 @@ Check out my recent posts on my personal homepage:
 **[🗼 Rss feed from Wenjie Xu](https://waynehsucn.github.io//)**
 * [2025 年的第一天，说点什么吧](https://waynehsucn.github.io//blog/2025/%E9%9A%8F%E7%AC%9425%E5%B2%81%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9/)
   * *Published on 2 Jan 2025*
+* [年前重访旧居](https://waynehsucn.github.io//blog/2025/%E9%9A%8F%E7%AC%94%E5%B9%B4%E5%89%8D%E9%87%8D%E8%AE%BF%E6%97%A7%E5%B1%85/)
+  * *Published on 2 Jan 2025*
 * [2024 年科研工作的心得体会](https://waynehsucn.github.io//blog/2024/2024%E5%B9%B4%E7%A7%91%E7%A0%94%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/)
   * *Published on 16 Dec 2024*
-* [中文的常态与变态](https://waynehsucn.github.io//blog/2024/%E4%B8%AD%E6%96%87%E7%9A%84%E5%B8%B8%E6%80%81%E4%B8%8E%E5%8F%98%E6%80%81/)
-  * *Published on 2 Dec 2024*
 
 
 ## 📬 Contact Me
@@ -79,4 +79,4 @@ Feel free to reach out at:
 ----
 
 > Generated with [lowlighter/metrics@3.20.0](https://github.com/lowlighter/metrics)
-> Last updated: 7 Feb 2025, 08:57:54 (Asia/Shanghai).
+> Last updated: 7 Feb 2025, 21:42:15 (Asia/Shanghai).
