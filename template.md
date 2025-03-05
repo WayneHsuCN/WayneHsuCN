@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Wayne Hsu</h1>
+<h1 align="left">Hi 👋, I'm Wayne Xu</h1>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Hi">
 
@@ -66,8 +66,8 @@ Check out my recent posts on my personal homepage:
 Feel free to reach out at:
 
 - 📧 Email: [wenjie.xu.cn@outlook.com](mailto:wenjie.xu.cn@outlook.com)  
-- 🌐 Website: [waynehsucn.github.io](https://waynehsucn.github.io/)  
-- 📖 GitHub: [waynehsucn](https://github.com/waynehsucn)
+- 🌐 Website: [waynexucn.github.io](https://waynexucn.github.io/)  
+- 📖 GitHub: [WayneXuCN](https://github.com/waynexucn)
 
 ----
 
