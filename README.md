@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Wayne Hsu</h1>
+<h1 align="left">Hi 👋, I'm Wayne Xu</h1>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Hi">
 
@@ -49,11 +49,11 @@
 
 - 🕒 **Active Hours**
 
-<img src="https://github.com/WayneHsuCN/WayneHsuCN/blob/main/.cache/habits.svg">
+<img src="https://github.com/WayneXuCN/WayneXuCN/blob/main/.cache/habits.svg">
 
 - 🌐 **Recently Used Languages**
 
-<img src="https://github.com/WayneHsuCN/WayneHsuCN/blob/main/.cache/languages.svg">
+<img src="https://github.com/WayneXuCN/WayneXuCN/blob/main/.cache/languages.svg">
 
 ## 📝 Blog Highlights
 
@@ -73,10 +73,10 @@ Check out my recent posts on my personal homepage:
 Feel free to reach out at:
 
 - 📧 Email: [wenjie.xu.cn@outlook.com](mailto:wenjie.xu.cn@outlook.com)  
-- 🌐 Website: [waynehsucn.github.io](https://waynehsucn.github.io/)  
-- 📖 GitHub: [waynehsucn](https://github.com/waynehsucn)
+- 🌐 Website: [waynexucn.github.io](https://waynexucn.github.io/)  
+- 📖 GitHub: [WayneXuCN](https://github.com/waynexucn)
 
 ----
 
 > Generated with [lowlighter/metrics@3.20.0](https://github.com/lowlighter/metrics)
-> Last updated: 5 Mar 2025, 09:00:14 (Asia/Shanghai).
+> Last updated: 5 Mar 2025, 15:26:25 (Asia/Shanghai).
